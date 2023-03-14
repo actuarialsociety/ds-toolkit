@@ -2,4 +2,4 @@
 
 
 # dstoolkit
-Practical tutorial designed to introduce data science tools that may prove useful in actuarial workflows
+Practical beginner-friendly tutorial designed to introduce data science tools that may prove useful in actuarial workflows
