@@ -18,7 +18,7 @@ This practical tutorial is designed to *introduce* data science tools that may p
 # Run
 
 > ℹ️ *For ease of use, this tutorial is intended to be run through [Google Colab](https://colab.research.google.com/)* 
-
+>
 >* 1️⃣ *Visit [colab.research.google.com/](https://colab.research.google.com/)*
 >* 2️⃣ *Click* **GitHub**
 >* 3️⃣ *Enter `"actuarialsociety"`*
