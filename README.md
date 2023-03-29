@@ -25,3 +25,17 @@ This practical tutorial is designed to *introduce* data science tools that may p
 >* 4️⃣ *Click `"Actuarial_Data_Science_Toolkit_Intro.ipynb"`*
 
 <img width="1402" alt="screenshot" src="https://user-images.githubusercontent.com/5680639/228551414-035fdebf-a882-4824-bf73-f701a6064a46.png">
+
+## Resources
+
+* VSCode is a popular Interactive Development Environment (IDE). It makes working with code **much** easier. In addition, their [training material](https://code.visualstudio.com/docs/introvideos/basics) is a great place to learn practical development skills.
+
+* [Kaggle](https://www.kaggle.com/) is online community of data scientists and machine learning practitioners. They provide free access to GPUs and their forums are particularly good for finding solutions to data science code related problems.
+
+* [Swiss Association of Actuaries Data Science initiative](https://www.actuarialdatascience.org/), seems to be the most mature data science effort by any acturaial society.
+
+* [A curated list of free and open source actuarial software](https://github.com/genedan/actuarial-foss)
+
+* [fast.ai](https://www.fast.ai/), a course and python `package` for accessible deep learning.
+
+* [Distil](https://distill.pub/), interactive articles about machine learning & AI.
