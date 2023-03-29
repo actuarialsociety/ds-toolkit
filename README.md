@@ -22,6 +22,6 @@ This practical tutorial is designed to *introduce* data science tools that may p
 >* 1️⃣ *Visit [colab.research.google.com/](https://colab.research.google.com/)*
 >* 2️⃣ *Click `"GitHub"`*
 >* 3️⃣ *Enter `"actuarialsociety"`*
->* 4️⃣ *Click `"New Notebook"`*
+>* 4️⃣ *Click `"Actuarial_Data_Science_Toolkit_Intro.ipynb"`*
 
-<img width="1389" alt="sceenshot" src="https://user-images.githubusercontent.com/5680639/228545703-b285a698-ed11-4951-902f-9459435e942c.png">
+<img width="1402" alt="screenshot" src="https://user-images.githubusercontent.com/5680639/228551414-035fdebf-a882-4824-bf73-f701a6064a46.png">
