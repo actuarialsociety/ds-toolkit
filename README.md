@@ -17,4 +17,6 @@ This practical tutorial is designed to *introduce* data science tools that may p
 
 # Run
 
-> For ease of use, this tutorial is intended to be run through [Google Colab](https://colab.research.google.com/). Visit [colab.research.google.com/](https://colab.research.google.com/) and click *GitHub*. Where it says "Enter a GitHub URL or search by organization or user", enter: 
+> For ease of use, this tutorial is intended to be run through [Google Colab](https://colab.research.google.com/). Visit [colab.research.google.com/](https://colab.research.google.com/) and click *GitHub*. Where it says "Enter a GitHub URL or search by organization or user", enter: `"actuarialsociety"`
+
+image.png
