@@ -14,3 +14,7 @@ This practical tutorial is designed to *introduce* data science tools that may p
 
 > ℹ️ *Typical actuarial work needs better data maturity, along with practical upskilling to take full advantage of advanced AI. As a profession of thought leaders we should help shape our industries' futures to take advantage of these rapidly evolving technologies.*
 >
+
+# Run
+
+> For ease of use, this tutorial is intended to be run through [Google Colab](https://colab.research.google.com/). Visit [colab.research.google.com/](https://colab.research.google.com/) and click *GitHub*. Where it says "Enter a GitHub URL or search by organization or user", enter: 
