@@ -6,7 +6,7 @@
 
 ## Introduction
 
-In recent years the rise of data intensive methods has seen terms like *Big Data*, *Data Science* and *Arficial Intelligence* (AI) enter public lexicon. The use of such methods in data-rich, mostly internet-based businesses has resulted in tools that may be applied more broadly and indeed data science tools and methods are used in broad domains. Actuaries have deep expertise with data, yet we have been slow to adapt to use newer data science type tools.
+In recent years the rise of data intensive methods has seen terms like *Big Data*, *Data Science* and *Artficial Intelligence* (AI) enter public lexicon. The use of such methods in data-rich, mostly internet-based businesses has resulted in tools that may be applied more broadly and indeed data science tools and methods are used in broad domains. Actuaries have deep expertise with data, yet we have been slow to adapt to use newer data science type tools.
 
 > ℹ️ *An actuarial view of Data Science may be found [here](https://actuaries.org.uk/learn/lifelong-learning/data-science-an-actuarial-viewpoint/) and an overview of AI in Actuarial Science may be found [here](https://www.actuarialsociety.org.za/wp-content/uploads/2018/10/2018-Richman-FIN.pdf).*
 
