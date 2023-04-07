@@ -27,11 +27,15 @@ This practical tutorial is designed to *introduce* data science tools that may p
 
 ## Additonal Resources
 
+
 * [VSCode](https://code.visualstudio.com/download) is a popular Interactive Development Environment (IDE). It makes working with code **much** easier. In addition, their [training material](https://code.visualstudio.com/docs/introvideos/basics) is a great place to learn practical development skills.
 * [GitHub Copilot](https://www.youtube.com/watch?v=Fi3AJZZregI) is an AI programming assistant. It is effectively auto-correct for codde and is based on a transformer model. It is fantastic and can even [answer questions](https://www.youtube.com/watch?v=Fi3AJZZregI).
 * [Kaggle](https://www.kaggle.com/) is online community of data scientists and machine learning practitioners. They provide free access to GPUs and their forums are particularly good for finding solutions to data science code related problems.
 * [Swiss Association of Actuaries Data Science initiative](https://www.actuarialdatascience.org/), seems to be the most mature data science effort by any acturaial society.
+* Prof Marcos Lopez de Prado lectures on [Advances in Financial Machine Learning](https://quantresearch.org/Lectures.htm), Academic materials for Cornell University's ORIE 5256 course.
 * [A curated list of free and open source actuarial software](https://github.com/genedan/actuarial-foss).
 * [fast.ai](https://www.fast.ai/), a course and python `package` for accessible deep learning.
 * [Distil](https://distill.pub/), interactive articles about machine learning & AI.
 * [How to survive the AI revolution](https://www.youtube.com/watch?v=oak1CqqIzug): Stanford Graduate School of Business professors argue that instead of viewing AI as a competitor, we should be embracing it as a **collaborator**.
+
+![Alt Text](https://media.tenor.com/oFO9mCbbj98AAAAC/rocket-lift-off.gif)
