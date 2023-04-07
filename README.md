@@ -2,7 +2,7 @@
 
 # `dstoolkit`
 
->*Practical beginner-friendly tutorial designed to introduce data science tools that may prove useful in actuarial workflows*
+> *Practical beginner-friendly tutorial designed to introduce data science tools that may prove useful in actuarial workflows*
 
 ## Introduction
 
@@ -13,29 +13,25 @@ In recent years the rise of data intensive methods has seen terms like *Big Data
 This practical tutorial is designed to *introduce* data science tools that may prove useful in actuarial workflows. No prior knowledge is assumed and concepts are outlined with provided **reusable code**. Links to more thorough learning materials for individual topics are also provided. The hope is that it will spark curiousity in members and that they will use such tools more regularly in their day-to-day work.
 
 > ℹ️ *Typical actuarial work needs better data maturity, along with practical upskilling to take full advantage of advanced AI. As a profession of thought leaders we should help shape our industries' futures to take advantage of these rapidly evolving technologies.*
->
 
 ## Run
 
-> ℹ️ *For ease of use, this tutorial is intended to be run through [Google Colab](https://colab.research.google.com/)* 
+> ℹ️ *For ease of use, this tutorial is intended to be run through [Google Colab](https://colab.research.google.com/)*
 >
->* 1️⃣ *Visit [colab.research.google.com/](https://colab.research.google.com/)*
->* 2️⃣ *Click `"GitHub"`*
->* 3️⃣ *Enter `"actuarialsociety"`*
->* 4️⃣ *Click `"Actuarial_Data_Science_Toolkit_Intro.ipynb"`*
+> * 1️⃣ *Visit [colab.research.google.com/](https://colab.research.google.com/)*
+> * 2️⃣ *Click `"GitHub"`*
+> * 3️⃣ *Enter `"actuarialsociety"`*
+> * 4️⃣ *Click `"Actuarial_Data_Science_Toolkit_Intro.ipynb"`*
 
 <img width="1402" alt="screenshot" src="https://user-images.githubusercontent.com/5680639/228551414-035fdebf-a882-4824-bf73-f701a6064a46.png">
 
-## Resources
+## Additonal Resources
 
-* VSCode is a popular Interactive Development Environment (IDE). It makes working with code **much** easier. In addition, their [training material](https://code.visualstudio.com/docs/introvideos/basics) is a great place to learn practical development skills.
-
+* [VSCode](https://code.visualstudio.com/download) is a popular Interactive Development Environment (IDE). It makes working with code **much** easier. In addition, their [training material](https://code.visualstudio.com/docs/introvideos/basics) is a great place to learn practical development skills.
+* [GitHub Copilot](https://www.youtube.com/watch?v=Fi3AJZZregI) is an AI programming assistant. It is effectively auto-correct for codde and is based on a transformer model. It is fantastic and can even [answer questions](https://www.youtube.com/watch?v=Fi3AJZZregI).
 * [Kaggle](https://www.kaggle.com/) is online community of data scientists and machine learning practitioners. They provide free access to GPUs and their forums are particularly good for finding solutions to data science code related problems.
-
 * [Swiss Association of Actuaries Data Science initiative](https://www.actuarialdatascience.org/), seems to be the most mature data science effort by any acturaial society.
-
-* [A curated list of free and open source actuarial software](https://github.com/genedan/actuarial-foss)
-
+* [A curated list of free and open source actuarial software](https://github.com/genedan/actuarial-foss).
 * [fast.ai](https://www.fast.ai/), a course and python `package` for accessible deep learning.
-
 * [Distil](https://distill.pub/), interactive articles about machine learning & AI.
+* [How to survive the AI revolution](https://www.youtube.com/watch?v=oak1CqqIzug): Stanford Graduate School of Business professors argue that instead of viewing AI as a competitor, we should be embracing it as a **collaborator**.
