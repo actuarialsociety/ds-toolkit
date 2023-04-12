@@ -1,7 +1,5 @@
-<img src="https://upload.wikimedia.org/wikipedia/de/6/62/International_Actuarial_Association_Logo.svg" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/5680639/224664949-db0e6ded-5bb5-4cbe-8322-29c5f27bae11.png" width="200" height="50">
 
-
+`<img src="https://user-images.githubusercontent.com/5680639/224664949-db0e6ded-5bb5-4cbe-8322-29c5f27bae11.png" style="text-align: right" width="200" height="50">`
 
 # `dstoolkit`
 
@@ -29,7 +27,6 @@ This practical tutorial is designed to *introduce* data science tools that may p
 <img width="1402" alt="screenshot" src="https://user-images.githubusercontent.com/5680639/228551414-035fdebf-a882-4824-bf73-f701a6064a46.png">
 
 ## Additonal Resources
-
 
 * [VSCode](https://code.visualstudio.com/download) is a popular Interactive Development Environment (IDE). It makes working with code **much** easier. In addition, their [training material](https://code.visualstudio.com/docs/introvideos/basics) is a great place to learn practical development skills.
 * [GitHub Copilot](https://www.youtube.com/watch?v=Fi3AJZZregI) is an AI programming assistant. It is effectively auto-correct for codde and is based on a transformer model. It is fantastic and can even [answer questions](https://www.youtube.com/watch?v=Fi3AJZZregI).
