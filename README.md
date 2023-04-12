@@ -33,7 +33,7 @@ This practical tutorial is designed to *introduce* data science tools that may p
 ## Additonal Resources
 
 * [VSCode](https://code.visualstudio.com/download) is a popular Interactive Development Environment (IDE). It makes working with code **much** easier. In addition, their [training material](https://code.visualstudio.com/docs/introvideos/basics) is a great place to learn practical development skills.
-* [GitHub Copilot](https://www.youtube.com/watch?v=Fi3AJZZregI) is an AI programming assistant. It is effectively auto-correct for codde and is based on a transformer model. It is fantastic and can even [answer questions](https://www.youtube.com/watch?v=Fi3AJZZregI).
+* [GitHub Copilot](https://www.youtube.com/watch?v=Fi3AJZZregI) is an AI programming assistant. It is effectively auto-correct for code and is based on a transformer model. It is fantastic and can even [answer questions](https://www.youtube.com/watch?v=Fi3AJZZregI).
 * [Kaggle](https://www.kaggle.com/) is online community of data scientists and machine learning practitioners. They provide free access to GPUs and their forums are particularly good for finding solutions to data science code related problems.
 * [Swiss Association of Actuaries Data Science initiative](https://www.actuarialdatascience.org/), seems to be the most mature data science effort by any acturaial society.
 * Prof Marcos Lopez de Prado lectures on [Advances in Financial Machine Learning](https://quantresearch.org/Lectures.htm); academic materials for Cornell University's ORIE 5256 course.
