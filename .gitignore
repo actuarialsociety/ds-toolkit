@@ -1,5 +1,6 @@
-**/recording.webm
+**/recording.webm/*
 **/dstoolkit/*
 **/cluster/*
-.conda/*
-**/.DS_Store
+**/.conda/*
+**/.DS_Store/*
+**/.ipynb_checkpoints/*
