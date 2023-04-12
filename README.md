@@ -1,8 +1,5 @@
 
-<img src="https://upload.wikimedia.org/wikipedia/de/6/62/International_Actuarial_Association_Logo.svg" width="150" height="150">
-
-
-<img src="https://www.actuarialsociety.org.za/wp-content/uploads/2023/03/75-ASSA-Logo.png" width="400" height="">
+<img src="https://upload.wikimedia.org/wikipedia/de/6/62/International_Actuarial_Association_Logo.svg" width="150" height="150"> <img src="https://www.actuarialsociety.org.za/wp-content/uploads/2023/03/75-ASSA-Logo.png" width="400" height="">
 
 
 # `dstoolkit`
