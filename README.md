@@ -1,4 +1,7 @@
-![ASSA-LOGO-20224](https://user-images.githubusercontent.com/5680639/224664949-db0e6ded-5bb5-4cbe-8322-29c5f27bae11.png)
+<img src="https://upload.wikimedia.org/wikipedia/de/6/62/International_Actuarial_Association_Logo.svg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/5680639/224664949-db0e6ded-5bb5-4cbe-8322-29c5f27bae11.png" width="200" height="50">
+
+
 
 # `dstoolkit`
 
