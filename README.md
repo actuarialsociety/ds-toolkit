@@ -1,5 +1,9 @@
 
-`<img src="https://user-images.githubusercontent.com/5680639/224664949-db0e6ded-5bb5-4cbe-8322-29c5f27bae11.png" style="text-align: right" width="200" height="50">`
+<img src="https://upload.wikimedia.org/wikipedia/de/6/62/International_Actuarial_Association_Logo.svg" width="150" height="150">
+
+
+<img src="" width="150" height="150">
+
 
 # `dstoolkit`
 
