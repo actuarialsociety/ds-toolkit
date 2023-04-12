@@ -34,7 +34,7 @@ This practical tutorial is designed to *introduce* data science tools that may p
 * [GitHub Copilot](https://www.youtube.com/watch?v=Fi3AJZZregI) is an AI programming assistant. It is effectively auto-correct for codde and is based on a transformer model. It is fantastic and can even [answer questions](https://www.youtube.com/watch?v=Fi3AJZZregI).
 * [Kaggle](https://www.kaggle.com/) is online community of data scientists and machine learning practitioners. They provide free access to GPUs and their forums are particularly good for finding solutions to data science code related problems.
 * [Swiss Association of Actuaries Data Science initiative](https://www.actuarialdatascience.org/), seems to be the most mature data science effort by any acturaial society.
-* Prof Marcos Lopez de Prado lectures on [Advances in Financial Machine Learning](https://quantresearch.org/Lectures.htm), Academic materials for Cornell University's ORIE 5256 course.
+* Prof Marcos Lopez de Prado lectures on [Advances in Financial Machine Learning](https://quantresearch.org/Lectures.htm); academic materials for Cornell University's ORIE 5256 course.
 * [A curated list of free and open source actuarial software](https://github.com/genedan/actuarial-foss).
 * [fast.ai](https://www.fast.ai/), a course and python `package` for accessible deep learning.
 * [Distil](https://distill.pub/), interactive articles about machine learning & AI.
