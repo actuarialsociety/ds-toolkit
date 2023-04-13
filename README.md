@@ -25,8 +25,7 @@ This practical tutorial is designed to *introduce* data science tools that may p
 > * 3️⃣ *Enter `"actuarialsociety"`*
 > * 4️⃣ *Click `"Actuarial_Data_Science_Toolkit_Intro.ipynb"`*
 
-
-![Xnapper-2023-04-12-19 38 51](https://user-images.githubusercontent.com/5680639/231539596-85288dc2-2751-4279-8e21-33bdd997b2dd.png)
+![Xnapper-2023-04-12-19 38 51](https://user-images.githubusercontent.com/5680639/231776024-f3a20ca6-486f-441f-9591-456adf63ae24.png)
 
 
 ## Additonal Resources
