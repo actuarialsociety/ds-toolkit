@@ -2,7 +2,7 @@
 
 <img src="https://www.actuarialsociety.org.za/wp-content/uploads/2023/03/75-ASSA-Logo.png" width="500" >
 
-# `dstoolkit`
+# `ds-toolkit`
 
 > *Practical beginner-friendly tutorial designed to introduce data science tools that may prove useful in actuarial workflows*
 
